@@ -1,0 +1,8 @@
+aluminium_foil
+can
+cardboard
+glass_bottle
+glass_cup
+plastic
+plastic_bottle
+plastic_cup
